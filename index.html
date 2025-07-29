@@ -4,13 +4,30 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Etch-A-Sketch</title>
+  <!-- CSS -->
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <div class="etch-container">
-    <h1 class="title">Etch-A-Sketch</h1>
-    <div id="grid" class="grid-container"></div>
+  <!-- Etch-A-Sketch main body -->
+  <div class="etch-body">
+    <div class="etch-container">
+      <h1 class="title">Etch-A-Sketch</h1>
+      <div id="grid" class="grid-container"></div>
+      <div class="button-row">
+        <div class="controls">
+          <button class="format-btn" data-size="16">Normal</button>
+          <button class="format-btn" data-size="32">Large</button>
+          <button id="black-btn">Black</button>
+          <button id="rainbow-btn">Rainbow</button>
+        </div>
+        <button id="clear-btn">Clear</button>
+      </div>
+    </div>
+    <div class="knob knob-left"></div>
+    <div class="knob knob-right"></div>
   </div>
-  <script src="etch-a-sketch.js"></script>
+  <!-- Javascript -->
+  <script src="script.js"></script>
 </body>
+
 </html>
