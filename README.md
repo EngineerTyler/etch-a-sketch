@@ -1,6 +1,6 @@
 # Etch-a-sketch
 Etch-a-Sketch game 
-* [DEMO] (https://engineertyler.github.io/etch-a-sketch/)
+* [DEMO](https://engineertyler.github.io/etch-a-sketch/)
 
 ### Purpose
 * Create a website version of Etch-A-Sketch
