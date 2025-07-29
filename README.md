@@ -1,4 +1,21 @@
-# etch-a-sketch
-Etch-a-Sketch game using HTML, CSS and JavaScript
+# Etch-a-sketch
+Etch-a-Sketch game 
+* [DEMO] (https://tchau8.github.io/etch-a-sketch/)
 
-DEMO [https://tchau8.github.io/etch-a-sketch/]
+### Purpose
+* Create a website version of Etch-A-Sketch
+
+### Outcome
+* Become more familiar with DOM manipulation
+* Improve knowledge of Javascript, HTML, CSS
+
+### Languages: 
+* HTML
+* CSS (FlexBox)
+* JavaScript
+
+### Tools:
+* VSC
+* Linux
+* GitHub
+
